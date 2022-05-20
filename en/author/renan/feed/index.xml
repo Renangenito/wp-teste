@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Renan</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
+	<description>Só mais um site WordPress</description>
+	<lastBuildDate>Tue, 26 Apr 2022 15:39:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>./../../../../wp-content/uploads/2022/05/favicon-32x32-1.png</url>
+	<title>Renan</title>
+	<link>./../../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hiroshima</title>
+		<link>./../../../hiroshima-2/index.html</link>
+					<comments>./../../../hiroshima-2/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Renan]]></dc:creator>
+		<pubDate>Tue, 26 Apr 2022 15:37:17 +0000</pubDate>
+				<category><![CDATA[Sem categoria]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=241</guid>
+
+					<description><![CDATA[Hiroshima 0 Trips taken 0 Customers served 0 flight hours Day 1 Hiroshima Day 2 Hiroshima Day 3 Hiroshima Secure it now! Only Alura Viagens can offer this possibility to visit incredible places in Japan! Don&#8217;t miss this opportunity to get to know the host city of the 2020 Summer Olympics up close. For only: &#8230;<p class="read-more"> <a class="" href="./../../../hiroshima-2/index.html"> <span class="screen-reader-text">Hiroshima</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="241" class="elementor elementor-241">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-8fa121d elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="8fa121d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-af116e1" data-id="af116e1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1cf466e elementor-widget elementor-widget-heading" data-id="1cf466e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.5 - 27-04-2022 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">Hiroshima</h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-258ca71 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="258ca71" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-4793d40 elementor-invisible" data-id="4793d40" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2ea5828 elementor-widget elementor-widget-counter" data-id="2ea5828" data-element_type="widget" data-widget_type="counter.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.5 - 27-04-2022 */
+.elementor-counter .elementor-counter-number-wrapper{display:-webkit-box;display:-ms-flexbox;display:flex;font-size:69px;font-weight:600;line-height:1}.elementor-counter .elementor-counter-number-prefix,.elementor-counter .elementor-counter-number-suffix{-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;white-space:pre-wrap}.elementor-counter .elementor-counter-number-prefix{text-align:right}.elementor-counter .elementor-counter-number-suffix{text-align:left}.elementor-counter .elementor-counter-title{text-align:center;font-size:19px;font-weight:400;line-height:2.5}</style>		<div class="elementor-counter">
+			<div class="elementor-counter-number-wrapper">
+				<span class="elementor-counter-number-prefix"></span>
+				<span class="elementor-counter-number" data-duration="2000" data-to-value="25" data-from-value="0" data-delimiter=",">0</span>
+				<span class="elementor-counter-number-suffix"></span>
+			</div>
+							<div class="elementor-counter-title">Trips taken</div>
+					</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-e8f1224 elementor-invisible" data-id="e8f1224" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-598e74a elementor-widget elementor-widget-counter" data-id="598e74a" data-element_type="widget" data-widget_type="counter.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-counter">
+			<div class="elementor-counter-number-wrapper">
+				<span class="elementor-counter-number-prefix"></span>
+				<span class="elementor-counter-number" data-duration="2000" data-to-value="87" data-from-value="0" data-delimiter=",">0</span>
+				<span class="elementor-counter-number-suffix"></span>
+			</div>
+							<div class="elementor-counter-title">Customers served</div>
+					</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-62d9af2 elementor-invisible" data-id="62d9af2" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-012a6f9 elementor-widget elementor-widget-counter" data-id="012a6f9" data-element_type="widget" data-widget_type="counter.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-counter">
+			<div class="elementor-counter-number-wrapper">
+				<span class="elementor-counter-number-prefix"></span>
+				<span class="elementor-counter-number" data-duration="2000" data-to-value="530" data-from-value="0" data-delimiter=".">0</span>
+				<span class="elementor-counter-number-suffix"></span>
+			</div>
+							<div class="elementor-counter-title">flight hours</div>
+					</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5343a0b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5343a0b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-37484bd" data-id="37484bd" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4b88105 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="4b88105" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.5 - 27-04-2022 */
+.elementor-widget-divider{--divider-border-style:none;--divider-border-width:1px;--divider-color:#2c2c2c;--divider-icon-size:20px;--divider-element-spacing:10px;--divider-pattern-height:24px;--divider-pattern-size:20px;--divider-pattern-url:none;--divider-pattern-repeat:repeat-x}.elementor-widget-divider .elementor-divider{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-divider .elementor-divider__text{font-size:15px;line-height:1;max-width:95%}.elementor-widget-divider .elementor-divider__element{margin:0 var(--divider-element-spacing);-ms-flex-negative:0;flex-shrink:0}.elementor-widget-divider .elementor-icon{font-size:var(--divider-icon-size)}.elementor-widget-divider .elementor-divider-separator{display:-webkit-box;display:-ms-flexbox;display:flex;margin:0;direction:ltr}.elementor-widget-divider--view-line_icon .elementor-divider-separator,.elementor-widget-divider--view-line_text .elementor-divider-separator{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-widget-divider--view-line_icon .elementor-divider-separator:after,.elementor-widget-divider--view-line_icon .elementor-divider-separator:before,.elementor-widget-divider--view-line_text .elementor-divider-separator:after,.elementor-widget-divider--view-line_text .elementor-divider-separator:before{display:block;content:"";border-bottom:0;-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--element-align-left .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;-ms-flex-negative:100;flex-shrink:100}.elementor-widget-divider--element-align-left .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-left .elementor-divider__element{margin-left:0}.elementor-widget-divider--element-align-right .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;-ms-flex-negative:100;flex-shrink:100}.elementor-widget-divider--element-align-right .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-right .elementor-divider__element{margin-right:0}.elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator{border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--separator-type-pattern{--divider-border-style:none}.elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line .elementor-divider-separator,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:after,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:before,.elementor-widget-divider--separator-type-pattern:not([class*=elementor-widget-divider--view]) .elementor-divider-separator{width:100%;min-height:var(--divider-pattern-height);-webkit-mask-size:var(--divider-pattern-size) 100%;mask-size:var(--divider-pattern-size) 100%;-webkit-mask-repeat:var(--divider-pattern-repeat);mask-repeat:var(--divider-pattern-repeat);background-color:var(--divider-color);-webkit-mask-image:var(--divider-pattern-url);mask-image:var(--divider-pattern-url)}.elementor-widget-divider--no-spacing{--divider-pattern-size:auto}.elementor-widget-divider--bg-round{--divider-pattern-repeat:round}.rtl .elementor-widget-divider .elementor-divider__text{direction:rtl}</style>		<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a91edab elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a91edab" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-dfcc7ff" data-id="dfcc7ff" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-16b4691 elementor-widget elementor-widget-e_image_hover_effects" data-id="16b4691" data-element_type="widget" data-widget_type="e_image_hover_effects.default">
+				<div class="elementor-widget-container">
+						<div class="eihe-box eihe-fade-in-down eihe_center">
+				<img width="1920" height="1440" src="./../../../../wp-content/uploads/2022/04/hiroshima-2467918_1920-1.jpg" class="attachment-full size-full" alt="" loading="lazy" />				<div class="eihe-caption">
+					<div class="eihe-title-cover">
+												<h3 class="eihe-title">Day 1</h3>
+											</div>
+					<p>Hiroshima
+</p>
+				</div>
+			</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-44e76e0" data-id="44e76e0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7fc858e elementor-widget elementor-widget-e_image_hover_effects" data-id="7fc858e" data-element_type="widget" data-widget_type="e_image_hover_effects.default">
+				<div class="elementor-widget-container">
+						<div class="eihe-box eihe-slide-up eihe_center">
+				<img width="1920" height="1280" src="./../../../../wp-content/uploads/2022/04/hiroshima-1191606_1920-1.jpg" class="attachment-full size-full" alt="" loading="lazy" />				<div class="eihe-caption">
+					<div class="eihe-title-cover">
+												<h3 class="eihe-title">Day 2</h3>
+											</div>
+					<p>Hiroshima</p>
+				</div>
+			</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-71ce2f6" data-id="71ce2f6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f01f087 elementor-widget elementor-widget-e_image_hover_effects" data-id="f01f087" data-element_type="widget" data-widget_type="e_image_hover_effects.default">
+				<div class="elementor-widget-container">
+						<div class="eihe-box eihe-fade-in-down eihe_center">
+				<img width="1920" height="1278" src="./../../../../wp-content/uploads/2022/04/japan-4382821_1920.jpg" class="attachment-full size-full" alt="" loading="lazy" />				<div class="eihe-caption">
+					<div class="eihe-title-cover">
+												<h3 class="eihe-title">Day 3</h3>
+											</div>
+					<p>Hiroshima</p>
+				</div>
+			</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2ad9dfb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2ad9dfb" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1a37ebc elementor-invisible" data-id="1a37ebc" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c29f697 elementor-widget elementor-widget-heading" data-id="c29f697" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Secure it now!
+</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-115b99f elementor-widget elementor-widget-text-editor" data-id="115b99f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.5 - 27-04-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				Only Alura Viagens can offer this possibility to visit incredible places in Japan! Don&#8217;t miss this opportunity to get to know the host city of the 2020 Summer Olympics up close.
+						</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-c90256c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c90256c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-f60733d elementor-invisible" data-id="f60733d" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;,&quot;animation_delay&quot;:&quot;100&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4be7117 elementor-widget elementor-widget-heading" data-id="4be7117" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">For only:
+</h4>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-1b66064 elementor-invisible" data-id="1b66064" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;,&quot;animation_delay&quot;:&quot;200&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-05368f3 elementor-widget elementor-widget-heading" data-id="05368f3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">R$ 8.762,51</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ddf7f22 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="ddf7f22" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-a09c6f2 elementor-widget elementor-widget-button" data-id="a09c6f2" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Purchase</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-f0fcb38 elementor-invisible" data-id="f0fcb38" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInRight&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5aa0991 elementor-widget elementor-widget-image" data-id="5aa0991" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.5 - 27-04-2022 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="212" height="300" src="./../../../../wp-content/uploads/2022/04/geisha-156791-1.png" class="attachment-medium size-medium" alt="" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>./../../../hiroshima-2/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tokyo</title>
+		<link>./../../../tokyo-2/index.html</link>
+					<comments>./../../../tokyo-2/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Renan]]></dc:creator>
+		<pubDate>Tue, 26 Apr 2022 15:34:01 +0000</pubDate>
+				<category><![CDATA[Promoções]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=236</guid>
+
+					<description><![CDATA[Tokyo 0 Trips taken 0 Customers served 0 flight hours Day 1 Monte Fuji Day 2 Akihabara Day 3 Asakusa Secure it now! Only Alura Viagens can offer this possibility to visit incredible places in Japan! Don&#8217;t miss this opportunity to get to know the host city of the 2020 Summer Olympics up close. For &#8230;<p class="read-more"> <a class="" href="./../../../tokyo-2/index.html"> <span class="screen-reader-text">Tokyo</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="236" class="elementor elementor-236">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-8fa121d elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="8fa121d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-af116e1" data-id="af116e1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1cf466e elementor-widget elementor-widget-heading" data-id="1cf466e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Tokyo</h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-258ca71 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="258ca71" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-4793d40 elementor-invisible" data-id="4793d40" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2ea5828 elementor-widget elementor-widget-counter" data-id="2ea5828" data-element_type="widget" data-widget_type="counter.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-counter">
+			<div class="elementor-counter-number-wrapper">
+				<span class="elementor-counter-number-prefix"></span>
+				<span class="elementor-counter-number" data-duration="2000" data-to-value="85" data-from-value="0" data-delimiter=",">0</span>
+				<span class="elementor-counter-number-suffix"></span>
+			</div>
+							<div class="elementor-counter-title">Trips taken</div>
+					</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-e8f1224 elementor-invisible" data-id="e8f1224" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-598e74a elementor-widget elementor-widget-counter" data-id="598e74a" data-element_type="widget" data-widget_type="counter.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-counter">
+			<div class="elementor-counter-number-wrapper">
+				<span class="elementor-counter-number-prefix"></span>
+				<span class="elementor-counter-number" data-duration="2000" data-to-value="355" data-from-value="0" data-delimiter=",">0</span>
+				<span class="elementor-counter-number-suffix"></span>
+			</div>
+							<div class="elementor-counter-title">Customers served</div>
+					</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-62d9af2 elementor-invisible" data-id="62d9af2" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-012a6f9 elementor-widget elementor-widget-counter" data-id="012a6f9" data-element_type="widget" data-widget_type="counter.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-counter">
+			<div class="elementor-counter-number-wrapper">
+				<span class="elementor-counter-number-prefix"></span>
+				<span class="elementor-counter-number" data-duration="2000" data-to-value="1030" data-from-value="0" data-delimiter=".">0</span>
+				<span class="elementor-counter-number-suffix"></span>
+			</div>
+							<div class="elementor-counter-title">flight hours</div>
+					</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5343a0b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5343a0b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-37484bd" data-id="37484bd" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4b88105 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="4b88105" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a91edab elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a91edab" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-dfcc7ff" data-id="dfcc7ff" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-16b4691 elementor-widget elementor-widget-e_image_hover_effects" data-id="16b4691" data-element_type="widget" data-widget_type="e_image_hover_effects.default">
+				<div class="elementor-widget-container">
+						<div class="eihe-box eihe-fade-in-down eihe_center">
+				<img width="1920" height="1276" src="./../../../../wp-content/uploads/2022/04/japan-1706942_1920-1.jpg" class="attachment-full size-full" alt="" loading="lazy" />				<div class="eihe-caption">
+					<div class="eihe-title-cover">
+												<h3 class="eihe-title">Day 1</h3>
+											</div>
+					<p>Monte Fuji</p>
+				</div>
+			</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-44e76e0" data-id="44e76e0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7fc858e elementor-widget elementor-widget-e_image_hover_effects" data-id="7fc858e" data-element_type="widget" data-widget_type="e_image_hover_effects.default">
+				<div class="elementor-widget-container">
+						<div class="eihe-box eihe-slide-up eihe_center">
+				<img width="1280" height="853" src="./../../../../wp-content/uploads/2022/04/akihabara-1180397_1280-1.jpg" class="attachment-full size-full" alt="" loading="lazy" />				<div class="eihe-caption">
+					<div class="eihe-title-cover">
+												<h3 class="eihe-title">Day 2</h3>
+											</div>
+					<p>Akihabara</p>
+				</div>
+			</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-71ce2f6" data-id="71ce2f6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f01f087 elementor-widget elementor-widget-e_image_hover_effects" data-id="f01f087" data-element_type="widget" data-widget_type="e_image_hover_effects.default">
+				<div class="elementor-widget-container">
+						<div class="eihe-box eihe-fade-in-down eihe_center">
+				<img width="1920" height="1278" src="./../../../../wp-content/uploads/2022/04/japan-3885874_1920-1.jpg" class="attachment-full size-full" alt="" loading="lazy" />				<div class="eihe-caption">
+					<div class="eihe-title-cover">
+												<h3 class="eihe-title">Day 3</h3>
+											</div>
+					<p>Asakusa</p>
+				</div>
+			</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2ad9dfb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2ad9dfb" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1a37ebc elementor-invisible" data-id="1a37ebc" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c29f697 elementor-widget elementor-widget-heading" data-id="c29f697" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Secure it now!
+</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-115b99f elementor-widget elementor-widget-text-editor" data-id="115b99f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							Only Alura Viagens can offer this possibility to visit incredible places in Japan! Don&#8217;t miss this opportunity to get to know the host city of the 2020 Summer Olympics up close.
+						</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-c90256c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c90256c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-f60733d elementor-invisible" data-id="f60733d" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;,&quot;animation_delay&quot;:&quot;100&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4be7117 elementor-widget elementor-widget-heading" data-id="4be7117" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">For only:
+</h4>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-1b66064 elementor-invisible" data-id="1b66064" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;,&quot;animation_delay&quot;:&quot;200&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-05368f3 elementor-widget elementor-widget-heading" data-id="05368f3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">R$ 5.762,51</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ddf7f22 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="ddf7f22" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-a09c6f2 elementor-widget elementor-widget-button" data-id="a09c6f2" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Purchase</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-f0fcb38 elementor-invisible" data-id="f0fcb38" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInRight&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5aa0991 elementor-widget elementor-widget-image" data-id="5aa0991" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="212" height="300" src="./../../../../wp-content/uploads/2022/04/geisha-156791-1.png" class="attachment-medium size-medium" alt="" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>./../../../tokyo-2/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
